@@ -3,7 +3,7 @@
 Backend Engineer • Systems / Infrastructure Engineer • Technical Consultant  
 
 CTO at **BlueLotus** — building products at **lotuschain.org**  
-Developer with **4+ years of experience** designing backend systems, scalable infrastructure, and AI-driven platforms.
+Developer with **5+ years of experience** designing backend systems, scalable infrastructure, and AI-driven platforms.
 
 Currently working on **LotusAI**, an AI platform for building data pipelines and training **medical computer‑vision models**.
 
